@@ -1,0 +1,31 @@
+body{
+	font-family: 'roboto';
+	color: #121212;
+}
+ 
+.judul{
+	background: #B6D8F2;
+	padding: 10px;
+	text-align: center;
+ 
+}
+ 
+.judul h1,h2,h3{
+	height: 15px;
+}
+ 
+a{
+	color: #FF7D90;
+	padding: 5px;
+	text-decoration: none;	
+}
+ 
+ 
+.table{
+	background: #FFF9EA;
+	border-collapse: collapse;
+}
+ 
+table.table th th , table.table tr td{
+	padding: 10px 20px	;
+}
